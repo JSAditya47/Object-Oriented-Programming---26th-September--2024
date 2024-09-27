@@ -1,4 +1,4 @@
-# I made this Project with all My Creativity which Idea I was thinking for whole day!
+# I made this Project with all My Creativity. This particular Idea I was thinking for whole day!
 # It is a Project of the Info of Two Dogs!
 
 class Dog:
